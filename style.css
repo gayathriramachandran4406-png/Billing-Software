@@ -626,7 +626,7 @@ body {
 }
 .summary-title {
     position: relative;
-    background-image: url("/image/main.png");
+    background-image: url("image/main.png");
     background-repeat: no-repeat;
     background-position: center top;
     background-size: 100% 100%;
